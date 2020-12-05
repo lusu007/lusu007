@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Minecraft Legend](https://github.com/playlegend/)  
   
 
-- 🌱 I’m currently learning the [HashiCorp](https://www.hashicorp.com/)-Stack and Microservice infrastructure  
+- 🌱 I’m currently learning the [HashiCorp](https://www.hashicorp.com/)-Stack and [Kubernetes](https://kubernetes.io/)  
   
 
 <br/>  

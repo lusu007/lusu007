@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **Kubernetes and advanced DevOps concepts**
 
-- 💬 Ask me anyhing about **DevOps**
+- 💬 Ask me anything about **DevOps**
